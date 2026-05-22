@@ -81,7 +81,7 @@ containerlab version
 Clone o repositório e acesse o diretório do laboratório:
 
 ```bash
-git clone https://github.com/AlexAkf/lab.git
+git clone https://github.com/AlexAkf/lab_topologia.git
 cd lab_topologia
 ```
 
